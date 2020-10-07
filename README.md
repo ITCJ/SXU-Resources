@@ -1,4 +1,4 @@
-# SXU-Resources
+# SXU-Resources 山西大学资源向导
 **山西大学资源向导 SXU study resources guidance**
 ## 写在前面的
 
