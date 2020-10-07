@@ -18,6 +18,9 @@
 * 禁止上传盗版图书、影像等
 * 如有侵权请 Issues 或Pull requests 进行删除
 
+## 校友博客
+[糖橙结的Tlog-愚钝之人](https://tangyv.com/)
+
 ## 推荐阅读
 
 [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
