@@ -14,7 +14,7 @@
 
 ## 注意事项
 
-* 原创内容遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)或作者自定义。
+* 原创内容遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)或作者自定义，最终解释权在原作者。
 * 禁止上传盗版图书、影像等
 * 如有侵权请 Issues 或Pull requests 进行删除
 
