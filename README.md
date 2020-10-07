@@ -18,6 +18,8 @@
 * 禁止上传盗版图书、影像等
 * 如有侵权请 Issues 或Pull requests 进行删除
 
+## 如何贡献资料PR
+
 ## 校友博客
 [糖橙结的Tlog-愚钝之人](https://tangyv.com/)
 
