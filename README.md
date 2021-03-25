@@ -1,4 +1,4 @@
-# SXU-Resources 山西大学资源向导
+# SXU-Resources 山西大学大大卷手册
 **山西大学资源向导 SXU study resources guidance**
 ## 写在前面的
 
