@@ -21,7 +21,9 @@
 ## 如何贡献资料PR
 
 ## 校友博客
-[糖橙结的Tlog-愚钝之人](https://tangyv.com/)
+[糖橙结的Tlog-愚钝之人](https://tangyv.com/)  
+
+[廖常越的Blog-非专业不著名程序员](https://crispig.github.io/)
 
 ## 推荐阅读
 
