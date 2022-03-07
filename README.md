@@ -1,4 +1,4 @@
-# SXU-Resources 山西大学大大卷手册
+# SXU-Resources 山西大学开摆手册
 **山西大学资源向导 SXU study resources guidance**
 ## 写在前面的
 
@@ -36,5 +36,3 @@
 [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
 
 [libpku - 贵校课程资料民间整理](https://github.com/lib-pku/libpku)
-
-**目视英杰，努力追赶**
